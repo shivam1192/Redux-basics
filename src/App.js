@@ -1,9 +1,14 @@
 import React from 'react';
-function App() {
+import {Provider} from 'react-redux'
+import { store } from './store/store';
+import TodoUI from './TodoUI';
 
+function App() {
   return (
     <div>
-        hello
+        <Provider store={store}>
+          <TodoUI/>
+        </Provider>
     </div>
   );
 }
