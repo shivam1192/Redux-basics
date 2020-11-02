@@ -1,0 +1,128 @@
+{
+    "easy": [
+      {
+        "problem": "WHAT IS 2+3?",
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5",
+        "correct": "D"
+      },
+      {
+        "problem": "WHAT IS 3+4?",
+        "A": "2",
+        "B": "7",
+        "C": "4",
+        "D": "5",
+        "correct": "B"
+      },
+      {
+        "problem": "WHAT IS 4+5?",
+        "A": "9",
+        "B": "6",
+        "C": "5",
+        "D": "4",
+        "correct": "A"
+      },
+      {
+        "problem": "WHAT IS 5+6?",
+        "A": "12",
+        "B": "13",
+        "C": "14",
+        "D": "11",
+        "correct": "D"
+      },
+      {
+        "problem": "WHAT IS 1+6?",
+        "A": "12",
+        "B": "13",
+        "C": "14",
+        "D": "7",
+        "correct": "D"
+      }
+    ],
+    "medium": [
+      {
+        "problem": "WHAT IS 2*3?",
+        "A": "6",
+        "B": "3",
+        "C": "4",
+        "D": "5",
+        "correct": "A"
+      },
+      {
+        "problem": "WHAT IS 3*4?",
+        "A": "2",
+        "B": "12",
+        "C": "4",
+        "D": "5",
+        "correct": "B"
+      },
+      {
+        "problem": "WHAT IS 4*5?",
+        "A": "9",
+        "B": "20",
+        "C": "5",
+        "D": "4",
+        "correct": "B"
+      },
+      {
+        "problem": "WHAT IS 5*6?",
+        "A": "12",
+        "B": "30",
+        "C": "14",
+        "D": "11",
+        "correct": "B"
+      },
+      {
+        "problem": "WHAT IS 1*6?",
+        "A": "6",
+        "B": "13",
+        "C": "14",
+        "D": "7",
+        "correct": "A"
+      }
+    ],
+    "hard": [
+      {
+        "problem": "WHAT IS 2*3+1?",
+        "A": "6",
+        "B": "7",
+        "C": "4",
+        "D": "5",
+        "correct": "B"
+      },
+      {
+        "problem": "WHAT IS 3*4+1?",
+        "A": "2",
+        "B": "13",
+        "C": "4",
+        "D": "5",
+        "correct": "B"
+      },
+      {
+        "problem": "WHAT IS 4*5+1?",
+        "A": "9",
+        "B": "21",
+        "C": "5",
+        "D": "4",
+        "correct": "B"
+      },
+      {
+        "problem": "WHAT IS 5*6+1?",
+        "A": "12",
+        "B": "31",
+        "C": "14",
+        "D": "11",
+        "correct": "B"
+      },
+      {
+        "problem": "WHAT IS 1*6+1?",
+        "A": "6",
+        "B": "13",
+        "C": "14",
+        "D": "7",
+        "correct": "D"
+      }
+    ]
+  }
